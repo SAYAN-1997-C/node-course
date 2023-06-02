@@ -1,0 +1,35 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-regex": "^5.0.0",
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.1",
+    "cliui": "^7.0.4",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "emoji-regex": "^8.0.0",
+    "escalade": "^3.1.1",
+    "get-caller-file": "^2.0.5",
+    "has-flag": "^4.0.0",
+    "is-fullwidth-code-point": "^3.0.0",
+    "require-directory": "^2.1.1",
+    "string-width": "^4.2.2",
+    "strip-ansi": "^6.0.0",
+    "supports-color": "^7.2.0",
+    "validator": "^13.6.0",
+    "wrap-ansi": "^7.0.0",
+    "y18n": "^5.0.8",
+    "yargs": "^17.0.1",
+    "yargs-parser": "^20.2.7"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

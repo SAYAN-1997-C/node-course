@@ -1,0 +1,18 @@
+{
+  "name": "mailguncheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "mailgun-js": "^0.22.0",
+    "nodemailer": "^6.6.2",
+    "nodemailer-mailgun-transport": "^2.1.3"
+  }
+}
